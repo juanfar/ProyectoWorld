@@ -1,5 +1,8 @@
 #aleman.py
 def saludar():
-print "Hallo welt!"
-return
+  print "Hallo Leute!"
+  print "Hallo ihr lieben!"
+  print "Hallo an alle!"
+  print "Hallo zusammen!"
+  return
 saludar()
